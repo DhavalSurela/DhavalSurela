@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhavalSurela
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning computer engineering
+- 🌱 I do know HTML, CSS, JS, PHP.
 - 📫 call me - 9313695901
 
 <!---
