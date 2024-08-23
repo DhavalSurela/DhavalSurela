@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DhavalSurela
 - 👀 I’m interested in learning
-- 🌱 I do know HTML, CSS, JS, PHP.
+- 🌱 I do know HTML, CSS, JS, C#, Angular, SQL.
 - 📫 call me - 9313695901
 
 <!---
